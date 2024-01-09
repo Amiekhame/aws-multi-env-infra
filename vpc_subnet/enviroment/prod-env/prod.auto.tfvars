@@ -1,0 +1,7 @@
+region="eu-west-1"
+project-name="prod"
+cidr_block ="11.0.0.0/16" 
+subnet-A-cidr="11.0.1.0/24" 
+subnet-B-cidr="11.0.2.0/24" 
+instance_type="t2.micro"
+env="prod" 
